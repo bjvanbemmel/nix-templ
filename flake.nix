@@ -1,7 +1,7 @@
 {
   description = "A collection of flake templates";
 
-  outputs = {
+  outputs = { self }: {
     templates = {
       default = {
         path = ./default;
