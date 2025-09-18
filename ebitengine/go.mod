@@ -1,6 +1,6 @@
 module github.com/bjvanbemmel/go-templ
 
-go 1.23.3
+go 1.24.6
 
 require github.com/hajimehoshi/ebiten/v2 v2.8.6
 
